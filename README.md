@@ -1,4 +1,4 @@
-# lab2web
+# pwlab1
 Farhan Zulfahriansyah TI.22.A5 312210494
 
 ## Belajar PHP Dasar
